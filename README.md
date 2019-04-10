@@ -28,7 +28,7 @@ The autonomous vehicle platform is comprised of the following components.
 
 ## SLAM Algorithm
 
-The robot performs Simultaneous Localisation and Mapping (SLAM) on the Zynq board, using an algorithm based on [tinySLAM](https://openslam-org.github.io/tinyslam.html).
+The robot performs Simultaneous Localisation and Mapping (SLAM) on the Zynq board, using an algorithm based on [tinySLAM/CoreSLAM](https://openslam-org.github.io/tinyslam.html).
 
 ## PHANTOM Demonstrator
 
