@@ -1,0 +1,7 @@
+.codelite
+x86/Debug/
+x86/Release/
+arm/Debug/
+arm/Release/
+server/Debug/
+server/Release/

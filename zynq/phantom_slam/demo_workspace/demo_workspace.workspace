@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="demo_workspace" Database="demo_workspace.tags" Version="10.0.0">
+  <Project Name="phantom_slam_x86" Path="../x86/phantom_slam_x86.project" Active="Yes"/>
+  <Project Name="phantom_slam_arm" Path="../arm/phantom_slam_arm.project" Active="No"/>
+  <Project Name="robot_server" Path="../server/robot_server.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="phantom_slam_x86" ConfigName="Debug"/>
+      <Project Name="code-tests" ConfigName="Debug"/>
+      <Project Name="test1" ConfigName="Debug"/>
+      <Project Name="phantom_slam_x86" ConfigName="Debug"/>
+      <Project Name="phantom_slam_arm" ConfigName="Debug"/>
+      <Project Name="phantom_robot_server" ConfigName="Debug"/>
+      <Project Name="phantom_robot_server" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="phantom_slam_x86" ConfigName="Release"/>
+      <Project Name="code-tests" ConfigName="Release"/>
+      <Project Name="test1" ConfigName="Release"/>
+      <Project Name="phantom_slam_x86" ConfigName="Release"/>
+      <Project Name="phantom_slam_arm" ConfigName="Release"/>
+      <Project Name="phantom_robot_server" ConfigName="Release"/>
+      <Project Name="phantom_robot_server" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
