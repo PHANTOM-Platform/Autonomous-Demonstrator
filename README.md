@@ -40,4 +40,4 @@ Data collection and motor control are mapped to the low-power Edison, which runs
 
 ## Video Demonstration
 
-[![Robot demonstration video](http://img.youtube.com/vi/qw1LN6yjWGM/0.jpg)](http://www.youtube.com/watch?v=qw1LN6yjWGM "Robot demonstration video")
+[![Robot demonstration video](https://img.youtube.com/vi/Lb1_t_qWxiw/0.jpg)](https://www.youtube.com/watch?v=Lb1_t_qWxiw "Robot demonstration video")
